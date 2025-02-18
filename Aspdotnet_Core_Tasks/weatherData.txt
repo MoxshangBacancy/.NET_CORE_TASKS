@@ -1,0 +1,1 @@
+{"Date":"2025-02-18","TemperatureC":0,"TemperatureF":32,"Summary":"string"}
