@@ -1,4 +1,4 @@
-﻿namespace Day1
+namespace Day3
 {
     public class WeatherForecast
     {
